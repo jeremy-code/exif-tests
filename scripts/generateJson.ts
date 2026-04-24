@@ -1,14 +1,32 @@
 import { ExifData } from "libexif-wasm";
-import { readdir, readFile, writeFile } from "node:fs/promises";
+import {
+  access,
+  constants,
+  readdir,
+  readFile,
+  writeFile,
+} from "node:fs/promises";
 import { serializeExifData } from "../lib/serializeExifData.ts";
+import type { PathLike } from "node:fs";
+
+function exists(path: PathLike) {
+  return access(path, constants.F_OK)
+    .then(() => true)
+    .catch(() => false);
+}
 
 const generateJson = async () => {
   const dirents = await readdir("./images", {
     withFileTypes: true,
   });
+  const imageDirectories = dirents.filter(
+    (dirent) =>
+      dirent.isDirectory() &&
+      exists(`${dirent.parentPath}/${dirent.name}/${dirent.name}.jpg`),
+  );
 
   const images = await Promise.all(
-    dirents.map((dirent) =>
+    imageDirectories.map((dirent) =>
       readFile(`${dirent.parentPath}/${dirent.name}/${dirent.name}.jpg`).then(
         (buffer) => ({
           name: dirent.name,
@@ -30,7 +48,7 @@ const generateJson = async () => {
         JSON.stringify(exifDataObject),
       );
 
-      return data === null ?
+      return data.length === 0 ?
           [writeJsonPromise]
         : [
             writeJsonPromise,
