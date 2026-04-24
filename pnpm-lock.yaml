@@ -1,0 +1,39 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      libexif-wasm:
+        specifier: ^0.5.1
+        version: 0.5.1
+    devDependencies:
+      '@types/node':
+        specifier: ^25.6.0
+        version: 25.6.0
+
+packages:
+
+  '@types/node@25.6.0':
+    resolution: {integrity: sha512-+qIYRKdNYJwY3vRCZMdJbPLJAtGjQBudzZzdzwQYkEPQd+PJGixUL5QfvCLDaULoLv+RhT3LDkwEfKaAkgSmNQ==}
+
+  libexif-wasm@0.5.1:
+    resolution: {integrity: sha512-dyruGnmbsRtyjGOn0iu+JnKVoltw/nv1Iy8cxEzX7Iyg37TZS3pcQst1AiWqhvX6BE1iNop/w7iZsaavgiOPdw==}
+    engines: {node: '>=16.0.0'}
+
+  undici-types@7.19.2:
+    resolution: {integrity: sha512-qYVnV5OEm2AW8cJMCpdV20CDyaN3g0AjDlOGf1OW4iaDEx8MwdtChUp4zu4H0VP3nDRF/8RKWH+IPp9uW0YGZg==}
+
+snapshots:
+
+  '@types/node@25.6.0':
+    dependencies:
+      undici-types: 7.19.2
+
+  libexif-wasm@0.5.1: {}
+
+  undici-types@7.19.2: {}

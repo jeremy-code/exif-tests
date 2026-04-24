@@ -1,0 +1,19 @@
+{
+  "name": "exif-tests",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generateJson": "node ./scripts/generateJson.ts"
+  },
+  "keywords": [],
+  "author": "Jeremy Nguyen <nguyen.jeremyt@gmail.com> (https://jeremy.ng)",
+  "license": "MIT",
+  "packageManager": "pnpm@10.33.0",
+  "dependencies": {
+    "libexif-wasm": "^0.5.1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0"
+  }
+}
