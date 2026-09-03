@@ -655,5 +655,56 @@
     ]
   },
   "dataType": "UNKNOWN",
-  "byteOrder": "INTEL"
+  "byteOrder": "INTEL",
+  "mnoteData": [
+    {
+      "id": 512,
+      "name": "Mode",
+      "title": "Speed/Sequence/Panorama Direction",
+      "description": "",
+      "value": "Normal/0/0"
+    },
+    {
+      "id": 521,
+      "name": "CameraID",
+      "title": "Camera ID",
+      "description": "",
+      "value": "OLYMPUS DIGITAL CAMERA         "
+    },
+    {
+      "id": 8208,
+      "name": null,
+      "title": null,
+      "description": null,
+      "value": ""
+    },
+    {
+      "id": 8224,
+      "name": null,
+      "title": null,
+      "description": null,
+      "value": ""
+    },
+    {
+      "id": 8240,
+      "name": null,
+      "title": null,
+      "description": null,
+      "value": ""
+    },
+    {
+      "id": 8256,
+      "name": null,
+      "title": null,
+      "description": null,
+      "value": ""
+    },
+    {
+      "id": 8272,
+      "name": null,
+      "title": null,
+      "description": null,
+      "value": ""
+    }
+  ]
 }

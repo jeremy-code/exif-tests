@@ -2,39 +2,27 @@ import { ExifData } from "libexif-wasm";
 import {
   access,
   constants,
+  glob,
   readdir,
   readFile,
   writeFile,
 } from "node:fs/promises";
 import { serializeExifData } from "../lib/serializeExifData.ts";
 import type { PathLike } from "node:fs";
-
-function exists(path: PathLike) {
-  return access(path, constants.F_OK)
-    .then(() => true)
-    .catch(() => false);
-}
+import { basename, dirname } from "node:path";
 
 const generateJson = async () => {
-  const dirents = await readdir("./images", {
-    withFileTypes: true,
-  });
-  const imageDirectories = dirents.filter(
-    (dirent) =>
-      dirent.isDirectory() &&
-      exists(`${dirent.parentPath}/${dirent.name}/${dirent.name}.jpg`),
-  );
+  const imageDirectories = (
+    await Array.fromAsync(glob("./images/*/*.jpg"))
+  ).map((path) => dirname(path));
 
   const images = await Promise.all(
-    imageDirectories.map((dirent) =>
-      readFile(`${dirent.parentPath}/${dirent.name}/${dirent.name}.jpg`).then(
-        (buffer) => ({
-          name: dirent.name,
-          parentPath: dirent.parentPath,
-          buffer,
-        }),
-      ),
-    ),
+    imageDirectories.map(async (path) => {
+      const base = basename(path);
+      const file = await readFile(`${path}/${base}.jpg`);
+
+      return { name: base, parentPath: path, buffer: file };
+    }),
   );
 
   await Promise.all(
@@ -44,7 +32,7 @@ const generateJson = async () => {
       exifData.free();
 
       const writeJsonPromise = writeFile(
-        `${image.parentPath}/${image.name}/${image.name}.json`,
+        `${image.parentPath}/${image.name}.json`,
         JSON.stringify(exifDataObject),
       );
 
@@ -53,7 +41,7 @@ const generateJson = async () => {
         : [
             writeJsonPromise,
             writeFile(
-              `${image.parentPath}/${image.name}/${image.name}_thumbnail.jpeg`,
+              `${image.parentPath}/${image.name}_thumbnail.jpeg`,
               new Uint8Array(data),
             ),
           ];
