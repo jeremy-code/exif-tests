@@ -1,0 +1,659 @@
+{
+  "ifd": {
+    "IFD_0": [
+      {
+        "ifd": "IFD_0",
+        "tag": "IMAGE_DESCRIPTION",
+        "format": "ASCII",
+        "components": 32,
+        "data": [
+          79, 76, 89, 77, 80, 85, 83, 32, 68, 73, 71, 73, 84, 65, 76, 32, 67,
+          65, 77, 69, 82, 65, 32, 32, 32, 32, 32, 32, 32, 32, 32, 0
+        ],
+        "size": 32,
+        "value": [
+          79, 76, 89, 77, 80, 85, 83, 32, 68, 73, 71, 73, 84, 65, 76, 32, 67,
+          65, 77, 69, 82, 65, 32, 32, 32, 32, 32, 32, 32, 32, 32, 0
+        ],
+        "formattedValue": "OLYMPUS DIGITAL CAMERA         ",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "IFD_0",
+        "tag": "MAKE",
+        "format": "ASCII",
+        "components": 24,
+        "data": [
+          79, 76, 89, 77, 80, 85, 83, 32, 73, 77, 65, 71, 73, 78, 71, 32, 67,
+          79, 82, 80, 46, 32, 32, 0
+        ],
+        "size": 24,
+        "value": [
+          79, 76, 89, 77, 80, 85, 83, 32, 73, 77, 65, 71, 73, 78, 71, 32, 67,
+          79, 82, 80, 46, 32, 32, 0
+        ],
+        "formattedValue": "OLYMPUS IMAGING CORP.  ",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "IFD_0",
+        "tag": "MODEL",
+        "format": "ASCII",
+        "components": 17,
+        "data": [
+          69, 45, 77, 49, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 0
+        ],
+        "size": 17,
+        "value": [
+          69, 45, 77, 49, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 0
+        ],
+        "formattedValue": "E-M1            ",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "IFD_0",
+        "tag": "ORIENTATION",
+        "format": "SHORT",
+        "components": 1,
+        "data": [1, 0],
+        "size": 2,
+        "value": [1],
+        "formattedValue": "Top-left",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "IFD_0",
+        "tag": "X_RESOLUTION",
+        "format": "RATIONAL",
+        "components": 1,
+        "data": [94, 1, 0, 0, 1, 0, 0, 0],
+        "size": 8,
+        "value": [350, 1],
+        "formattedValue": "350",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "IFD_0",
+        "tag": "Y_RESOLUTION",
+        "format": "RATIONAL",
+        "components": 1,
+        "data": [94, 1, 0, 0, 1, 0, 0, 0],
+        "size": 8,
+        "value": [350, 1],
+        "formattedValue": "350",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "IFD_0",
+        "tag": "RESOLUTION_UNIT",
+        "format": "SHORT",
+        "components": 1,
+        "data": [2, 0],
+        "size": 2,
+        "value": [2],
+        "formattedValue": "Inch",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "IFD_0",
+        "tag": "SOFTWARE",
+        "format": "ASCII",
+        "components": 12,
+        "data": [71, 73, 77, 80, 32, 50, 46, 56, 46, 49, 52, 0],
+        "size": 12,
+        "value": [71, 73, 77, 80, 32, 50, 46, 56, 46, 49, 52, 0],
+        "formattedValue": "GIMP 2.8.14",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "IFD_0",
+        "tag": "DATE_TIME",
+        "format": "ASCII",
+        "components": 20,
+        "data": [
+          50, 48, 49, 54, 58, 48, 52, 58, 50, 54, 32, 49, 49, 58, 51, 52, 58,
+          51, 57, 0
+        ],
+        "size": 20,
+        "value": [
+          50, 48, 49, 54, 58, 48, 52, 58, 50, 54, 32, 49, 49, 58, 51, 52, 58,
+          51, 57, 0
+        ],
+        "formattedValue": "2016:04:26 11:34:39",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "IFD_0",
+        "tag": "ARTIST",
+        "format": "ASCII",
+        "components": 64,
+        "data": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+        ],
+        "size": 64,
+        "value": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+        ],
+        "formattedValue": "",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "IFD_0",
+        "tag": "YCBCR_POSITIONING",
+        "format": "SHORT",
+        "components": 1,
+        "data": [2, 0],
+        "size": 2,
+        "value": [2],
+        "formattedValue": "Co-sited",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "IFD_0",
+        "tag": "COPYRIGHT",
+        "format": "ASCII",
+        "components": 64,
+        "data": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+        ],
+        "size": 64,
+        "value": [
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+        ],
+        "formattedValue": "[None] (Photographer) - [None] (Editor)",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "IFD_0",
+        "tag": "PRINT_IMAGE_MATCHING",
+        "format": "UNDEFINED",
+        "components": 528,
+        "data": [
+          80, 114, 105, 110, 116, 73, 77, 0, 48, 51, 48, 48, 0, 0, 37, 0, 1, 0,
+          20, 0, 20, 0, 2, 0, 1, 0, 0, 0, 3, 0, 240, 0, 0, 0, 7, 0, 0, 0, 0, 0,
+          8, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 11, 0, 56, 1,
+          0, 0, 12, 0, 0, 0, 0, 0, 13, 0, 0, 0, 0, 0, 14, 0, 80, 1, 0, 0, 16, 0,
+          96, 1, 0, 0, 32, 0, 180, 1, 0, 0, 0, 1, 3, 0, 0, 0, 1, 1, 255, 0, 0,
+          0, 2, 1, 131, 0, 0, 0, 3, 1, 131, 0, 0, 0, 4, 1, 131, 0, 0, 0, 5, 1,
+          131, 0, 0, 0, 6, 1, 131, 0, 0, 0, 7, 1, 128, 128, 128, 0, 16, 1, 129,
+          0, 0, 0, 0, 2, 0, 0, 0, 0, 7, 2, 0, 0, 0, 0, 8, 2, 0, 0, 0, 0, 9, 2,
+          0, 0, 0, 0, 10, 2, 0, 0, 0, 0, 11, 2, 248, 1, 0, 0, 13, 2, 0, 0, 0, 0,
+          32, 2, 214, 1, 0, 0, 0, 3, 3, 0, 0, 0, 1, 3, 255, 0, 0, 0, 2, 3, 131,
+          0, 0, 0, 3, 3, 131, 0, 0, 0, 6, 3, 131, 0, 0, 0, 16, 3, 129, 0, 0, 0,
+          0, 4, 0, 0, 0, 0, 0, 0, 9, 17, 0, 0, 16, 39, 0, 0, 11, 15, 0, 0, 16,
+          39, 0, 0, 151, 5, 0, 0, 16, 39, 0, 0, 176, 8, 0, 0, 16, 39, 0, 0, 1,
+          28, 0, 0, 16, 39, 0, 0, 94, 2, 0, 0, 16, 39, 0, 0, 139, 0, 0, 0, 16,
+          39, 0, 0, 203, 3, 0, 0, 16, 39, 0, 0, 229, 27, 0, 0, 16, 39, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 0, 0, 0, 64, 64, 128, 128, 192, 192,
+          255, 255, 0, 0, 64, 64, 128, 128, 192, 192, 255, 255, 0, 0, 64, 64,
+          128, 128, 192, 192, 255, 255, 5, 5, 5, 0, 0, 0, 64, 64, 128, 128, 192,
+          192, 255, 255, 0, 0, 64, 64, 128, 128, 192, 192, 255, 255, 0, 0, 64,
+          64, 128, 128, 192, 192, 255, 255, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+        ],
+        "size": 528,
+        "value": [
+          80, 114, 105, 110, 116, 73, 77, 0, 48, 51, 48, 48, 0, 0, 37, 0, 1, 0,
+          20, 0, 20, 0, 2, 0, 1, 0, 0, 0, 3, 0, 240, 0, 0, 0, 7, 0, 0, 0, 0, 0,
+          8, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 11, 0, 56, 1,
+          0, 0, 12, 0, 0, 0, 0, 0, 13, 0, 0, 0, 0, 0, 14, 0, 80, 1, 0, 0, 16, 0,
+          96, 1, 0, 0, 32, 0, 180, 1, 0, 0, 0, 1, 3, 0, 0, 0, 1, 1, 255, 0, 0,
+          0, 2, 1, 131, 0, 0, 0, 3, 1, 131, 0, 0, 0, 4, 1, 131, 0, 0, 0, 5, 1,
+          131, 0, 0, 0, 6, 1, 131, 0, 0, 0, 7, 1, 128, 128, 128, 0, 16, 1, 129,
+          0, 0, 0, 0, 2, 0, 0, 0, 0, 7, 2, 0, 0, 0, 0, 8, 2, 0, 0, 0, 0, 9, 2,
+          0, 0, 0, 0, 10, 2, 0, 0, 0, 0, 11, 2, 248, 1, 0, 0, 13, 2, 0, 0, 0, 0,
+          32, 2, 214, 1, 0, 0, 0, 3, 3, 0, 0, 0, 1, 3, 255, 0, 0, 0, 2, 3, 131,
+          0, 0, 0, 3, 3, 131, 0, 0, 0, 6, 3, 131, 0, 0, 0, 16, 3, 129, 0, 0, 0,
+          0, 4, 0, 0, 0, 0, 0, 0, 9, 17, 0, 0, 16, 39, 0, 0, 11, 15, 0, 0, 16,
+          39, 0, 0, 151, 5, 0, 0, 16, 39, 0, 0, 176, 8, 0, 0, 16, 39, 0, 0, 1,
+          28, 0, 0, 16, 39, 0, 0, 94, 2, 0, 0, 16, 39, 0, 0, 139, 0, 0, 0, 16,
+          39, 0, 0, 203, 3, 0, 0, 16, 39, 0, 0, 229, 27, 0, 0, 16, 39, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 0, 0, 0, 64, 64, 128, 128, 192, 192,
+          255, 255, 0, 0, 64, 64, 128, 128, 192, 192, 255, 255, 0, 0, 64, 64,
+          128, 128, 192, 192, 255, 255, 5, 5, 5, 0, 0, 0, 64, 64, 128, 128, 192,
+          192, 255, 255, 0, 0, 64, 64, 128, 128, 192, 192, 255, 255, 0, 0, 64,
+          64, 128, 128, 192, 192, 255, 255, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+        ],
+        "formattedValue": "528 bytes undefined data",
+        "byteOrder": "INTEL"
+      }
+    ],
+    "IFD_1": [],
+    "EXIF": [
+      {
+        "ifd": "EXIF",
+        "tag": "EXPOSURE_TIME",
+        "format": "RATIONAL",
+        "components": 1,
+        "data": [1, 0, 0, 0, 208, 7, 0, 0],
+        "size": 8,
+        "value": [1, 2000],
+        "formattedValue": "1/2000 sec.",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "FNUMBER",
+        "format": "RATIONAL",
+        "components": 1,
+        "data": [40, 0, 0, 0, 10, 0, 0, 0],
+        "size": 8,
+        "value": [40, 10],
+        "formattedValue": "f/4.0",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "EXPOSURE_PROGRAM",
+        "format": "SHORT",
+        "components": 1,
+        "data": [1, 0],
+        "size": 2,
+        "value": [1],
+        "formattedValue": "Manual",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "ISO_SPEED_RATINGS",
+        "format": "SHORT",
+        "components": 1,
+        "data": [200, 0],
+        "size": 2,
+        "value": [200],
+        "formattedValue": "200",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "EXIF_VERSION",
+        "format": "UNDEFINED",
+        "components": 4,
+        "data": [48, 50, 51, 48],
+        "size": 4,
+        "value": [48, 50, 51, 48],
+        "formattedValue": "Exif Version 2.3",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "DATE_TIME_ORIGINAL",
+        "format": "ASCII",
+        "components": 20,
+        "data": [
+          50, 48, 49, 53, 58, 48, 57, 58, 48, 55, 32, 49, 49, 58, 53, 57, 58,
+          51, 53, 0
+        ],
+        "size": 20,
+        "value": [
+          50, 48, 49, 53, 58, 48, 57, 58, 48, 55, 32, 49, 49, 58, 53, 57, 58,
+          51, 53, 0
+        ],
+        "formattedValue": "2015:09:07 11:59:35",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "DATE_TIME_DIGITIZED",
+        "format": "ASCII",
+        "components": 20,
+        "data": [
+          50, 48, 49, 53, 58, 48, 57, 58, 48, 55, 32, 49, 49, 58, 53, 57, 58,
+          51, 53, 0
+        ],
+        "size": 20,
+        "value": [
+          50, 48, 49, 53, 58, 48, 57, 58, 48, 55, 32, 49, 49, 58, 53, 57, 58,
+          51, 53, 0
+        ],
+        "formattedValue": "2015:09:07 11:59:35",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "COMPONENTS_CONFIGURATION",
+        "format": "UNDEFINED",
+        "components": 4,
+        "data": [1, 2, 3, 0],
+        "size": 4,
+        "value": [1, 2, 3, 0],
+        "formattedValue": "Y Cb Cr -",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "EXPOSURE_BIAS_VALUE",
+        "format": "SRATIONAL",
+        "components": 1,
+        "data": [0, 0, 0, 0, 10, 0, 0, 0],
+        "size": 8,
+        "value": [0, 10],
+        "formattedValue": "0.00 EV",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "MAX_APERTURE_VALUE",
+        "format": "RATIONAL",
+        "components": 1,
+        "data": [0, 3, 0, 0, 0, 1, 0, 0],
+        "size": 8,
+        "value": [768, 256],
+        "formattedValue": "3.00 EV (f/2.8)",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "METERING_MODE",
+        "format": "SHORT",
+        "components": 1,
+        "data": [5, 0],
+        "size": 2,
+        "value": [5],
+        "formattedValue": "Pattern",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "LIGHT_SOURCE",
+        "format": "SHORT",
+        "components": 1,
+        "data": [0, 0],
+        "size": 2,
+        "value": [0],
+        "formattedValue": "Unknown",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "FLASH",
+        "format": "SHORT",
+        "components": 1,
+        "data": [8, 0],
+        "size": 2,
+        "value": [8],
+        "formattedValue": "Flash did not fire",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "FOCAL_LENGTH",
+        "format": "RATIONAL",
+        "components": 1,
+        "data": [31, 0, 0, 0, 1, 0, 0, 0],
+        "size": 8,
+        "value": [31, 1],
+        "formattedValue": "31.0 mm",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "MAKER_NOTE",
+        "format": "UNDEFINED",
+        "components": 144,
+        "data": [
+          79, 76, 89, 77, 80, 85, 83, 0, 73, 73, 3, 0, 7, 0, 0, 2, 4, 0, 3, 0,
+          0, 0, 100, 0, 0, 0, 9, 2, 7, 0, 32, 0, 0, 0, 112, 0, 0, 0, 16, 32, 13,
+          0, 1, 0, 0, 0, 0, 0, 0, 0, 32, 32, 13, 0, 1, 0, 0, 0, 0, 0, 0, 0, 48,
+          32, 13, 0, 1, 0, 0, 0, 0, 0, 0, 0, 64, 32, 13, 0, 1, 0, 0, 0, 0, 0, 0,
+          0, 80, 32, 13, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 79, 76, 89, 77, 80, 85, 83, 32, 68, 73, 71, 73, 84, 65,
+          76, 32, 67, 65, 77, 69, 82, 65, 32, 32, 32, 32, 32, 32, 32, 32, 32, 0
+        ],
+        "size": 144,
+        "value": [
+          79, 76, 89, 77, 80, 85, 83, 0, 73, 73, 3, 0, 7, 0, 0, 2, 4, 0, 3, 0,
+          0, 0, 100, 0, 0, 0, 9, 2, 7, 0, 32, 0, 0, 0, 112, 0, 0, 0, 16, 32, 13,
+          0, 1, 0, 0, 0, 0, 0, 0, 0, 32, 32, 13, 0, 1, 0, 0, 0, 0, 0, 0, 0, 48,
+          32, 13, 0, 1, 0, 0, 0, 0, 0, 0, 0, 64, 32, 13, 0, 1, 0, 0, 0, 0, 0, 0,
+          0, 80, 32, 13, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+          0, 0, 0, 0, 0, 79, 76, 89, 77, 80, 85, 83, 32, 68, 73, 71, 73, 84, 65,
+          76, 32, 67, 65, 77, 69, 82, 65, 32, 32, 32, 32, 32, 32, 32, 32, 32, 0
+        ],
+        "formattedValue": "144 bytes undefined data",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "USER_COMMENT",
+        "format": "UNDEFINED",
+        "components": 125,
+        "data": [
+          65, 83, 67, 73, 73, 0, 0, 0, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+          32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+          32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+          32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+          32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+          32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+          32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+          32, 32, 32, 32, 32
+        ],
+        "size": 125,
+        "value": [
+          65, 83, 67, 73, 73, 0, 0, 0, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+          32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+          32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+          32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+          32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+          32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+          32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32,
+          32, 32, 32, 32, 32
+        ],
+        "formattedValue": "                                                                                                                     ",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "FLASH_PIX_VERSION",
+        "format": "UNDEFINED",
+        "components": 4,
+        "data": [48, 49, 48, 48],
+        "size": 4,
+        "value": [48, 49, 48, 48],
+        "formattedValue": "FlashPix Version 1.0",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "COLOR_SPACE",
+        "format": "SHORT",
+        "components": 1,
+        "data": [1, 0],
+        "size": 2,
+        "value": [1],
+        "formattedValue": "sRGB",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "PIXEL_X_DIMENSION",
+        "format": "LONG",
+        "components": 1,
+        "data": [0, 18, 0, 0],
+        "size": 4,
+        "value": [4608],
+        "formattedValue": "4608",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "PIXEL_Y_DIMENSION",
+        "format": "LONG",
+        "components": 1,
+        "data": [0, 12, 0, 0],
+        "size": 4,
+        "value": [3072],
+        "formattedValue": "3072",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "FILE_SOURCE",
+        "format": "UNDEFINED",
+        "components": 1,
+        "data": [3],
+        "size": 1,
+        "value": [3],
+        "formattedValue": "DSC",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "CUSTOM_RENDERED",
+        "format": "SHORT",
+        "components": 1,
+        "data": [0, 0],
+        "size": 2,
+        "value": [0],
+        "formattedValue": "Normal process",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "EXPOSURE_MODE",
+        "format": "SHORT",
+        "components": 1,
+        "data": [1, 0],
+        "size": 2,
+        "value": [1],
+        "formattedValue": "Manual exposure",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "WHITE_BALANCE",
+        "format": "SHORT",
+        "components": 1,
+        "data": [0, 0],
+        "size": 2,
+        "value": [0],
+        "formattedValue": "Auto white balance",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "DIGITAL_ZOOM_RATIO",
+        "format": "RATIONAL",
+        "components": 1,
+        "data": [100, 0, 0, 0, 100, 0, 0, 0],
+        "size": 8,
+        "value": [100, 100],
+        "formattedValue": "1.00",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "SCENE_CAPTURE_TYPE",
+        "format": "SHORT",
+        "components": 1,
+        "data": [0, 0],
+        "size": 2,
+        "value": [0],
+        "formattedValue": "Standard",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "GAIN_CONTROL",
+        "format": "SHORT",
+        "components": 1,
+        "data": [1, 0],
+        "size": 2,
+        "value": [1],
+        "formattedValue": "Low gain up",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "CONTRAST",
+        "format": "SHORT",
+        "components": 1,
+        "data": [0, 0],
+        "size": 2,
+        "value": [0],
+        "formattedValue": "Normal",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "SATURATION",
+        "format": "SHORT",
+        "components": 1,
+        "data": [0, 0],
+        "size": 2,
+        "value": [0],
+        "formattedValue": "Normal",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "SHARPNESS",
+        "format": "SHORT",
+        "components": 1,
+        "data": [1, 0],
+        "size": 2,
+        "value": [1],
+        "formattedValue": "Soft",
+        "byteOrder": "INTEL"
+      }
+    ],
+    "GPS": [
+      {
+        "ifd": "GPS",
+        "tag": "VERSION_ID",
+        "format": "BYTE",
+        "components": 4,
+        "data": [2, 3, 0, 0],
+        "size": 4,
+        "value": [2, 3, 0, 0],
+        "formattedValue": "2.3.0.0",
+        "byteOrder": "INTEL"
+      }
+    ],
+    "INTEROPERABILITY": [
+      {
+        "ifd": "INTEROPERABILITY",
+        "tag": "INTEROPERABILITY_INDEX",
+        "format": "ASCII",
+        "components": 4,
+        "data": [82, 57, 56, 0],
+        "size": 4,
+        "value": [82, 57, 56, 0],
+        "formattedValue": "R98",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "INTEROPERABILITY",
+        "tag": "INTEROPERABILITY_VERSION",
+        "format": "UNDEFINED",
+        "components": 4,
+        "data": [48, 49, 48, 48],
+        "size": 4,
+        "value": [48, 49, 48, 48],
+        "formattedValue": "0100",
+        "byteOrder": "INTEL"
+      }
+    ]
+  },
+  "dataType": "UNKNOWN",
+  "byteOrder": "INTEL"
+}

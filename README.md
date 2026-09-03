@@ -20,4 +20,16 @@ This image is licensed under [Creative Commons Attribution 4.0 International (CC
 
 5. [807OREGON/DSC00161.jpg](https://archive.org/details/backrooms-photos/807OREGON/DSC00161.jpg) - HobbyTown USA of Oshkosh, Wisconsin
 
-This image is licensed under [Creative Commons CC0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en). THe original creator is HobbyTown USA of Oshkosh, Wisconsin, and the image was uploaded to Archive.org as [Original Backrooms Full Photo Set](https://archive.org/details/backrooms-photos/807OREGON/) on July 31, 2024.
+This image is licensed under [Creative Commons CC0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en). The original creator is HobbyTown USA of Oshkosh, Wisconsin, and the image was uploaded to Archive.org as [Original Backrooms Full Photo Set](https://archive.org/details/backrooms-photos/807OREGON/) on July 31, 2024.
+
+6. [2015_Swaledale_from_Kisdon_Hill](https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg) - View into Swaledale (to the south-east) from the Pennine Way along Kisdon hill
+
+The image is licensed under [Creative Commons Attribution-Share Alike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/). The original creator is [User:Kreuzschnabel](https://commons.wikimedia.org/wiki/User:Kreuzschnabel), and the image was uploaded to Wikimedia Commons as [2015 Swaledale from Kisdon Hill](https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon_Hill.jpg) on January 2, 2016. No changes were made to the image.
+
+7. [CillianMurphy-TIFF2025-01-Cropped](https://commons.wikimedia.org/wiki/File:CillianMurphy-TIFF2025-01-Cropped.png) - Josh Popov
+
+This image is licensed under [Creative Commons Attribution 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by/4.0/). The original creator is [Josh Popov](https://commons.wikimedia.org/wiki/User:JoshPopov), and the image was uploaded to Wikimedia Commons as [CillianMurphy-TIFF2025-01-Cropped.png](https://commons.wikimedia.org/wiki/File:CillianMurphy-TIFF2025-01-Cropped.png) on September 8, 2025. No changes were made to the image.
+
+8. [cogs-apng.png](https://github.com/libvips/libvips/blob/master/test/test-suite/images/cogs-apng.png) - libvips contributors
+
+This image is licensed under [GNU Lesser General Public License v2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html). The original creator is the [libvips contributors](https://github.com/libvips/libvips/commit/0fce36f56474af67e1351966c19316de0286421b), and the image was uploaded to GitHub as [cogs-apng.png](https://github.com/libvips/libvips/blob/master/test/test-suite/images/cogs-apng.png) on August 3, 2026. No changes were made to the image.

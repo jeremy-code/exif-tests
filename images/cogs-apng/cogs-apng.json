@@ -1,0 +1,134 @@
+{
+  "ifd": {
+    "IFD_0": [
+      {
+        "ifd": "IFD_0",
+        "tag": "ORIENTATION",
+        "format": "SHORT",
+        "components": 1,
+        "data": [1, 0],
+        "size": 2,
+        "value": [1],
+        "formattedValue": "Top-left",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "IFD_0",
+        "tag": "X_RESOLUTION",
+        "format": "RATIONAL",
+        "components": 1,
+        "data": [56, 99, 0, 0, 232, 3, 0, 0],
+        "size": 8,
+        "value": [25400, 1000],
+        "formattedValue": "25.400",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "IFD_0",
+        "tag": "Y_RESOLUTION",
+        "format": "RATIONAL",
+        "components": 1,
+        "data": [56, 99, 0, 0, 232, 3, 0, 0],
+        "size": 8,
+        "value": [25400, 1000],
+        "formattedValue": "25.400",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "IFD_0",
+        "tag": "RESOLUTION_UNIT",
+        "format": "SHORT",
+        "components": 1,
+        "data": [2, 0],
+        "size": 2,
+        "value": [2],
+        "formattedValue": "Inch",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "IFD_0",
+        "tag": "YCBCR_POSITIONING",
+        "format": "SHORT",
+        "components": 1,
+        "data": [1, 0],
+        "size": 2,
+        "value": [1],
+        "formattedValue": "Centered",
+        "byteOrder": "INTEL"
+      }
+    ],
+    "IFD_1": [],
+    "EXIF": [
+      {
+        "ifd": "EXIF",
+        "tag": "EXIF_VERSION",
+        "format": "UNDEFINED",
+        "components": 4,
+        "data": [48, 50, 49, 48],
+        "size": 4,
+        "value": [48, 50, 49, 48],
+        "formattedValue": "Exif Version 2.1",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "COMPONENTS_CONFIGURATION",
+        "format": "UNDEFINED",
+        "components": 4,
+        "data": [1, 2, 3, 0],
+        "size": 4,
+        "value": [1, 2, 3, 0],
+        "formattedValue": "Y Cb Cr -",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "FLASH_PIX_VERSION",
+        "format": "UNDEFINED",
+        "components": 4,
+        "data": [48, 49, 48, 48],
+        "size": 4,
+        "value": [48, 49, 48, 48],
+        "formattedValue": "FlashPix Version 1.0",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "COLOR_SPACE",
+        "format": "SHORT",
+        "components": 1,
+        "data": [255, 255],
+        "size": 2,
+        "value": [65535],
+        "formattedValue": "Uncalibrated",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "PIXEL_X_DIMENSION",
+        "format": "LONG",
+        "components": 1,
+        "data": [85, 0, 0, 0],
+        "size": 4,
+        "value": [85],
+        "formattedValue": "85",
+        "byteOrder": "INTEL"
+      },
+      {
+        "ifd": "EXIF",
+        "tag": "PIXEL_Y_DIMENSION",
+        "format": "LONG",
+        "components": 1,
+        "data": [129, 1, 0, 0],
+        "size": 4,
+        "value": [385],
+        "formattedValue": "385",
+        "byteOrder": "INTEL"
+      }
+    ],
+    "GPS": [],
+    "INTEROPERABILITY": []
+  },
+  "dataType": "UNKNOWN",
+  "byteOrder": "INTEL"
+}
